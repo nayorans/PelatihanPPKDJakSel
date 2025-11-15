@@ -1,0 +1,231 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource,distance_km,direction,city,country
+2023-06-29T16:57:56.166Z,-4.3913,123.4868,10,4.2,mb,14,140,3.774,0.89,us,us6000kqq3,2023-09-08T14:18:37.040Z,Banda Sea,earthquake,8.72,1.87,0.199,7,reviewed,us,us,,,Banda Sea,
+2023-04-22T10:00:55.544Z,-5.3643,125.401,9.754,4,mb,16,102,4.505,0.46,us,us7000jwlw,2023-07-03T02:46:41.040Z,Banda Sea,earthquake,8.82,4.56,0.232,10,reviewed,us,us,,,Banda Sea,
+2022-10-18T11:46:04.527Z,-4.3646,125.3462,459.85,5,mb,131,26,4.184,0.4,us,us6000iuib,2022-12-31T23:03:38.040Z,Banda Sea,earthquake,6.92,6.27,0.042,184,reviewed,us,us,,,Banda Sea,
+2022-09-23T21:08:51.908Z,-5.3135,125.5474,9.446,4.2,mb,22,49,4.592,0.37,us,us6000ipbd,2022-11-26T20:57:23.040Z,Banda Sea,earthquake,5.1,4.933,0.236,5,reviewed,us,us,,,Banda Sea,
+2022-04-16T11:45:12.605Z,-4.5792,125.2265,460.04,4.6,mb,,43,4.284,0.79,us,us7000h2nw,2022-06-26T01:18:24.040Z,Banda Sea,earthquake,10.8,7.3,0.052,112,reviewed,us,us,,,Banda Sea,
+2022-02-08T10:20:47.325Z,-4.5074,125.3292,472.22,4.1,mb,,44,4.286,0.45,us,us7000gj22,2022-04-19T17:39:07.040Z,Banda Sea,earthquake,11,5.6,0.094,31,reviewed,us,us,,,Banda Sea,
+2021-11-26T15:30:38.422Z,-4.463,125.4762,408.81,4.2,mb,,52,4.341,0.99,us,us7000fx8p,2022-02-05T23:04:14.040Z,Banda Sea,earthquake,8.7,8.6,0.083,40,reviewed,us,us,,,Banda Sea,
+2021-08-25T04:01:11.249Z,-5.8004,125.1454,589.76,4.5,mb,,76,4.024,0.81,us,us7000f3hs,2021-11-02T14:55:07.040Z,Banda Sea,earthquake,12.6,9.7,0.118,21,reviewed,us,us,,,Banda Sea,
+2021-07-04T01:27:36.359Z,-5.8246,125.1562,555.87,4.9,mb,,72,4.003,0.62,us,us6000et7k,2021-09-10T20:06:49.040Z,Banda Sea,earthquake,10,11.8,0.229,6,reviewed,us,us,,,Banda Sea,
+2021-05-05T04:00:56.395Z,-4.8603,125.3259,485.03,4.4,mb,,105,4.57,0.84,us,us7000e24i,2021-07-10T20:16:07.040Z,Banda Sea,earthquake,13.9,8,0.169,10,reviewed,us,us,,,Banda Sea,
+2021-04-05T15:54:43.078Z,-4.5982,125.2699,513.7,4.3,mb,,67,4.324,0.49,us,us6000e18p,2021-06-12T21:37:23.040Z,Banda Sea,earthquake,13.3,9.1,0.147,13,reviewed,us,us,,,Banda Sea,
+2020-09-22T07:53:32.990Z,-4.6979,125.3986,429.68,4.3,mb,,89,4.48,0.93,us,us6000c17n,2020-11-28T21:32:04.040Z,Banda Sea,earthquake,8,13.2,0.188,8,reviewed,us,us,,,Banda Sea,
+2020-08-12T17:12:02.012Z,-4.6014,125.2477,481.13,4.1,mb,,56,4.314,0.72,us,us6000bgk9,2020-10-24T20:09:03.040Z,Banda Sea,earthquake,11.9,11.7,0.135,15,reviewed,us,us,,,Banda Sea,
+2020-08-05T23:25:26.649Z,-4.6958,125.3917,462.75,4.4,mb,,61,4.474,0.44,us,us6000b9xa,2020-10-21T22:03:53.040Z,Banda Sea,earthquake,10.7,8.4,0.155,12,reviewed,us,us,,,Banda Sea,
+2020-04-22T03:38:58.975Z,-5.6428,125.4458,538.32,4.4,mb,,67,4.249,0.81,us,us60009dyq,2020-07-11T22:19:16.040Z,Banda Sea,earthquake,15.8,10.2,0.161,11,reviewed,us,us,,,Banda Sea,
+2020-03-01T00:51:02.061Z,-4.4746,125.3471,469.53,4,mb,,62,5.354,0.67,us,us60008b13,2020-05-19T22:14:30.040Z,Banda Sea,earthquake,13.7,14.5,0.212,6,reviewed,us,us,,,Banda Sea,
+2019-10-11T15:01:50.163Z,-4.7161,125.2902,482.83,4.7,mb,,55,4.432,0.8,us,us70005tdr,2019-12-28T20:45:59.040Z,Banda Sea,earthquake,11.5,10.3,0.099,31,reviewed,us,us,,,Banda Sea,
+2019-09-21T04:25:25.142Z,-5.2356,125.2084,10,4.2,mb,,102,4.586,0.66,us,us70005mk4,2019-12-10T17:27:17.040Z,Banda Sea,earthquake,5.8,2,0.215,6,reviewed,us,us,,,Banda Sea,
+2019-08-02T05:56:13.691Z,-4.5071,125.443,466.44,4.4,mb,,85,5.192,0.62,us,us600052ui,2019-10-19T21:42:19.040Z,Banda Sea,earthquake,14.4,12.8,0.161,11,reviewed,us,us,,,Banda Sea,
+2018-10-25T18:02:40.190Z,-4.6781,125.2771,477.43,4.2,mb,,70,4.394,1.22,us,us2000i4me,2019-01-10T17:18:42.040Z,Banda Sea,earthquake,13.3,11,0.146,13,reviewed,us,us,,,Banda Sea,
+2018-06-27T02:33:25.040Z,-4.4364,125.5247,443.14,4.3,mb,,58,5.429,1.07,us,us2000fw0u,2018-09-21T16:25:46.040Z,Banda Sea,earthquake,7.9,12.4,0.133,16,reviewed,us,us,,,Banda Sea,
+2018-02-01T06:20:40.760Z,-4.5979,125.4081,497.31,4.6,mb,,47,4.405,0.79,us,us1000cdkc,2018-04-25T01:39:40.040Z,Banda Sea,earthquake,11.2,9.2,0.085,41,reviewed,us,us,,,Banda Sea,
+2017-07-30T17:34:55.730Z,-4.5147,125.4762,433.26,4.4,mb,,43,4.381,0.95,us,us2000a2qj,2017-10-18T01:54:10.040Z,Banda Sea,earthquake,10.7,8.4,0.078,48,reviewed,us,us,,,Banda Sea,
+2017-04-07T08:36:13.350Z,-4.4846,125.3248,478.27,4.5,mb,,49,4.265,0.8,us,us10008ff7,2017-06-23T07:26:34.040Z,Banda Sea,earthquake,5.3,7.2,0.075,52,reviewed,us,us,,,Banda Sea,
+2016-08-15T01:54:23.170Z,-4.4948,125.4738,444.17,4.4,mb,,57,4.364,0.89,us,us10006du0,2016-11-15T02:21:49.040Z,Banda Sea,earthquake,7.4,11.8,0.1,29,reviewed,us,us,,,Banda Sea,
+2016-04-28T04:22:36.080Z,-4.5284,125.3695,495.86,4.8,mb,,61,4.327,0.74,us,us10005e9l,2016-07-08T02:49:26.040Z,Banda Sea,earthquake,14.3,12.6,0.175,10,reviewed,us,us,,,Banda Sea,
+2015-07-19T21:02:40.640Z,-4.4112,125.3913,436.77,4.5,mb,,56,5.237,0.77,us,us20002yk7,2015-10-14T21:05:45.040Z,Banda Sea,earthquake,11.6,2.8,0.105,27,reviewed,us,us,,,Banda Sea,
+2015-05-15T19:08:17.460Z,-4.5295,125.5408,438,4,mb,,55,4.432,0.69,us,us10002c7e,2015-07-23T01:04:01.040Z,Banda Sea,earthquake,10,19.2,0.196,8,reviewed,us,us,,,Banda Sea,
+2014-05-27T23:45:15.490Z,-5.1328,125.3905,528.71,4.4,mb,,29,4.68,0.75,us,usb000r666,2014-08-23T08:36:52.000Z,Banda Sea,earthquake,,7,0.103,37,reviewed,us,us,,,Banda Sea,
+2014-02-26T04:15:34.530Z,-4.4382,125.5165,434.5,4.5,mb,,42,4.347,0.92,us,usc000mybg,2014-05-13T21:36:42.000Z,Banda Sea,earthquake,,6.3,0.077,50,reviewed,us,us,,,Banda Sea,
+2008-09-29T16:56:08.880Z,-4.642,125.487,459.2,4.6,mb,39,93.2,,0.62,us,usp000ghyp,2014-11-07T01:37:16.473Z,Banda Sea,earthquake,,9.4,,19,reviewed,us,us,,,Banda Sea,
+2008-06-08T20:55:39.850Z,-4.44,125.459,433.3,4.4,mb,31,84.8,,0.86,us,usp000g8y4,2014-11-07T01:36:16.618Z,Banda Sea,earthquake,,16.2,,15,reviewed,us,us,,,Banda Sea,
+2007-07-07T20:21:41.850Z,-5.468,125.424,10,4.5,mb,19,143,,1.56,us,usp000ffpq,2014-11-07T01:32:55.247Z,Banda Sea,earthquake,,,,11,reviewed,us,us,,,Banda Sea,
+2006-06-18T04:46:41.040Z,-5.421,125.403,530.9,4.6,mb,29,91.3,,0.61,us,usp000ekpn,2014-11-07T01:29:24.103Z,Banda Sea,earthquake,,10.7,,14,reviewed,us,us,,,Banda Sea,
+2006-05-09T01:57:12.280Z,-5.679,125.31,573.4,5.2,mwc,271,43.5,,0.68,us,usp000egmw,2016-11-10T00:20:35.419Z,Banda Sea,earthquake,,3.8,,,reviewed,us,hrv,,,Banda Sea,
+2006-05-05T15:43:23.240Z,-4.622,125.222,500,3.7,mb,8,180.3,,1,us,usp000egby,2014-11-07T01:29:03.412Z,Banda Sea,earthquake,,,,1,reviewed,us,us,,,Banda Sea,
+2006-03-17T14:33:12.000Z,-4.982,123.385,15,4.3,mb,13,159.2,,1.01,us,usp000ecbr,2014-11-07T01:28:32.362Z,Banda Sea,earthquake,,0,,5,reviewed,us,us,,,Banda Sea,
+2005-07-10T22:43:17.220Z,-4.488,125.468,444.3,4.4,mb,20,78.6,,0.93,us,usp000duyg,2014-11-07T01:26:28.377Z,Banda Sea,earthquake,,14.5,,5,reviewed,us,us,,,Banda Sea,
+2004-09-17T18:20:26.940Z,-4.689,125.272,468,4.3,mb,44,107,,1.08,us,usp000d4g9,2014-11-07T01:23:30.265Z,Banda Sea,earthquake,,8.4,,18,reviewed,us,us,,,Banda Sea,
+2004-05-26T08:23:05.760Z,-5.809,125.097,30,4.2,mb,8,141.7,,1.12,us,usp000cw8p,2014-11-07T01:22:24.370Z,Banda Sea,earthquake,,0,,3,reviewed,us,us,,,Banda Sea,
+2003-12-20T18:48:42.680Z,-4.584,125.451,432.1,4.6,mb,29,113.8,,1.02,us,usp000cfpa,2014-11-07T01:20:47.365Z,Banda Sea,earthquake,,20.7,,17,reviewed,us,us,,,Banda Sea,
+2002-05-12T22:29:57.880Z,-4.494,124.062,33,4.3,mb,8,,,1.43,us,usp000b47a,2014-11-07T01:15:37.068Z,Banda Sea,earthquake,,,,3,reviewed,us,us,,,Banda Sea,
+2002-01-14T14:04:31.750Z,-4.495,125.235,400,3.5,mb,7,,,0.62,us,usp000awf8,2014-11-07T01:14:41.715Z,Banda Sea,earthquake,,,,1,reviewed,us,us,,,Banda Sea,
+2001-04-15T05:45:49.300Z,-5.535,125.401,584.2,4.9,mb,107,,,0.9,us,usp000ad9a,2014-11-07T01:12:34.983Z,Banda Sea,earthquake,,,,32,reviewed,us,us,,,Banda Sea,
+2000-03-29T17:28:17.180Z,-4.52,125.252,464.8,4.4,mb,,,,0.94,us,usp0009qev,2014-11-07T01:09:45.989Z,Banda Sea,earthquake,,4.1,,19,reviewed,us,us,,,Banda Sea,
+1999-06-03T13:19:38.230Z,-4.46,125.188,412.1,4.8,mb,,,,0.71,us,usp000997z,2014-11-07T01:07:50.447Z,Banda Sea,earthquake,,2.1,,22,reviewed,us,us,,,Banda Sea,
+1998-11-10T09:56:33.480Z,-5.209,123.154,33,4.5,mb,,,,0.95,us,usp0008xz5,2014-11-07T01:06:26.152Z,Banda Sea,earthquake,,,,5,reviewed,us,us,,,Banda Sea,
+1998-05-10T18:05:17.540Z,-4.462,125.254,477.9,4.5,mb,,,,0.97,us,usp0008muq,2014-11-07T01:05:12.135Z,Banda Sea,earthquake,,7.7,,12,reviewed,us,us,,,Banda Sea,
+1997-12-24T05:50:15.180Z,-5.868,125.093,33,4.7,mb,,,,1.19,us,usp0008d41,2014-11-07T01:04:09.568Z,Banda Sea,earthquake,,,,14,reviewed,us,us,,,Banda Sea,
+1997-04-28T10:45:59.030Z,-4.505,125.364,450,4.4,mb,,,,0.68,us,usp00081e8,2014-11-07T01:02:39.118Z,Banda Sea,earthquake,,,,7,reviewed,us,us,,,Banda Sea,
+1997-04-11T04:18:50.380Z,-4.567,125.273,450,4.4,mb,,,,0.88,us,usp00080b1,2014-11-07T01:02:32.175Z,Banda Sea,earthquake,,,,6,reviewed,us,us,,,Banda Sea,
+1995-05-20T06:20:05.250Z,-5.865,125.163,583.1,4.6,mb,,,,0.7,us,usp0006xr2,2014-11-07T00:57:57.800Z,Banda Sea,earthquake,,9.4,,5,reviewed,us,us,,,Banda Sea,
+1994-02-03T22:02:20.740Z,-5.553,125.51,33,4.7,mb,,,,1.5,us,usp00067zn,2014-11-07T00:54:56.331Z,Banda Sea,earthquake,,,,7,reviewed,us,us,,,Banda Sea,
+1992-10-12T16:41:33.230Z,-4.644,125.442,449.9,4.6,mb,,,,1.1,us,usp0005f8d,2014-11-07T00:51:39.603Z,Banda Sea,earthquake,,7.9,,8,reviewed,us,us,,,Banda Sea,
+1992-07-14T07:03:09.570Z,-4.725,125.455,465,6,mw,,,,1.1,us,usp0005atw,2022-04-28T18:41:07.873Z,Banda Sea,earthquake,,,,,reviewed,us,hrv,,,Banda Sea,
+1989-08-16T13:46:22.330Z,-4.597,125.442,448.3,5,mb,,,,1,us,usp0003yhk,2014-11-07T00:44:43.311Z,Banda Sea,earthquake,,8.1,,9,reviewed,us,us,,,Banda Sea,
+1989-03-03T19:07:00.410Z,-5.745,125.447,196.7,4.1,mb,,,,1.5,us,usp0003sjc,2014-11-07T00:43:45.638Z,Banda Sea,earthquake,,58.2,,2,reviewed,us,us,,,Banda Sea,
+1988-11-19T22:13:35.470Z,-5.825,125.116,31.3,4.8,mb,,,,1.1,us,usp0003nzr,2014-11-07T00:43:07.434Z,Banda Sea,earthquake,,6.9,,4,reviewed,us,us,,,Banda Sea,
+1983-11-12T01:56:28.550Z,-4.973,125.41,33,5.2,mb,,,,1.2,us,usp0001zrd,2014-11-07T00:34:07.937Z,Banda Sea,earthquake,,,,8,reviewed,us,us,,,Banda Sea,
+1983-06-26T22:15:03.760Z,-5.625,123.285,33,4.1,mb,,,,1.5,us,usp0001wdy,2014-11-07T00:33:20.964Z,Banda Sea,earthquake,,,,1,reviewed,us,us,,,Banda Sea,
+1981-10-06T17:26:31.500Z,-5.203,123.326,33,4.2,mb,,,,0.8,us,usp0001gag,2014-11-07T00:30:12.030Z,Banda Sea,earthquake,,,,1,reviewed,us,us,,,Banda Sea,
+1980-09-25T05:53:17.800Z,-4.79,125.403,425,5,mb,,,,,us,usp00019yy,2014-11-06T23:24:26.153Z,Banda Sea,earthquake,,,,,reviewed,us,us,,,Banda Sea,
+1978-11-25T05:22:45.500Z,-5.215,125.456,35,5.3,mb,,,,,us,usp0000xmh,2022-04-27T15:22:25.526Z,Banda Sea,earthquake,,,,,reviewed,us,us,,,Banda Sea,
+1978-11-11T12:31:16.300Z,-4.683,125.451,457,4.8,mb,,,,,us,usp0000xda,2014-11-06T23:21:53.686Z,Banda Sea,earthquake,,,,,reviewed,us,us,,,Banda Sea,
+1978-03-08T04:38:30.800Z,-5.414,125.536,565,4.6,mb,,,,,us,usp0000t9r,2014-11-06T23:21:47.523Z,Banda Sea,earthquake,,,,,reviewed,us,us,,,Banda Sea,
+1978-02-21T07:47:21.700Z,-4.995,125.23,531,5.6,mb,,,,,us,usp0000t2x,2022-04-27T15:56:52.263Z,Banda Sea,earthquake,,,,,reviewed,us,us,,,Banda Sea,
+1978-02-21T07:14:54.400Z,-4.844,125.412,510,6.3,mb,,,,,us,usp0000t2v,2022-04-27T15:56:51.062Z,Banda Sea,earthquake,,,,,reviewed,us,us,,,Banda Sea,
+1978-02-21T07:14:05.300Z,-4.946,125.247,535,5.9,mb,,,,,us,usp0000t2u,2022-05-09T19:16:01.000Z,Banda Sea,earthquake,,,,,reviewed,us,us,,,Banda Sea,
+1977-04-19T21:46:33.700Z,-5.544,125.372,526,5.7,mb,,,,,us,usp0000nfs,2022-04-27T16:29:27.854Z,Banda Sea,earthquake,,,,,reviewed,us,us,,,Banda Sea,
+1976-06-09T14:25:37.400Z,-5.189,125.231,33,5.1,mb,,,,,us,usp0000gt6,2014-11-06T23:21:35.600Z,Banda Sea,earthquake,,,,,reviewed,us,us,,,Banda Sea,
+2022-07-10T07:49:43.282Z,-6.1524,122.9868,9.475,4.8,mb,61,46,2.577,0.55,us,us6000i1cp,2022-09-24T21:26:03.040Z,Flores Sea,earthquake,6.61,3.942,0.096,41,reviewed,us,us,,,Flores Sea,
+2015-12-20T00:39:15.600Z,-6.1617,122.3584,10,4.3,mb,,123,2.46,0.56,us,us1000491s,2016-03-12T02:29:18.040Z,Flores Sea,earthquake,7,1.8,0.177,9,reviewed,us,us,,,Flores Sea,
+2022-09-25T19:43:21.697Z,-1.949,118.8751,10,4.7,mb,37,108,2.14,0.94,us,us7000iaze,2022-12-03T22:03:23.040Z,"Makassar Strait, Indonesia",earthquake,7.42,1.549,0.092,36,reviewed,us,us,,,Makassar Strait,Indonesia
+2023-08-29T05:22:49.817Z,1.0001,124.3428,173.997,4.3,mb,29,68,3.032,0.9,us,us7000kt6q,2023-11-04T21:36:20.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,8.74,9.382,0.129,17,reviewed,us,us,,,Minahasa,Indonesia
+2023-08-26T22:45:29.540Z,0.886,121.9616,77.693,4.9,mb,101,31,1.201,0.54,us,us7000kr8m,2023-10-28T19:15:39.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.15,5.77,0.057,96,reviewed,us,us,,,Minahasa,Indonesia
+2023-08-18T04:33:49.981Z,0.2594,121.926,194.594,4.8,mb,82,47,1.423,0.93,us,us7000kp5v,2023-10-27T21:39:03.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,6.94,1.83,0.068,68,reviewed,us,us,,,Minahasa,Indonesia
+2023-07-24T22:10:49.628Z,1.3148,122.6874,39.02,4.4,mb,18,172,1.916,0.76,us,us6000kxas,2023-09-30T21:36:35.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,13.59,8.682,0.134,16,reviewed,us,us,,,Minahasa,Indonesia
+2023-07-09T09:44:16.600Z,0.7951,121.1135,78.944,4.3,mb,31,64,0.457,0.54,us,us6000kr34,2023-09-16T19:16:06.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.56,4.734,0.118,20,reviewed,us,us,,,Minahasa,Indonesia
+2023-06-04T10:15:26.150Z,0.4306,120.2406,562.607,4.3,mb,38,96,0.866,0.43,us,us7000k68i,2023-08-12T17:15:02.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,11.17,7.559,0.107,25,reviewed,us,us,,,Minahasa,Indonesia
+2023-04-24T16:10:56.919Z,1.788,122.6106,446.459,4.1,mb,34,73,1.948,0.58,us,us7000jwqr,2023-07-11T01:45:43.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,13.03,9.749,0.12,19,reviewed,us,us,,,Minahasa,Indonesia
+2023-04-17T17:43:49.361Z,0.2024,121.8847,201.133,4.3,mb,22,142,1.425,0.77,us,us6000k63l,2023-07-03T02:47:27.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,11.41,8.059,0.138,15,reviewed,us,us,,,Minahasa,Indonesia
+2022-11-12T11:01:41.672Z,1.2541,123.1887,33.917,4.9,mb,56,71,2.318,0.57,us,us7000ipa5,2023-01-28T19:58:09.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,4.07,5.288,0.082,47,reviewed,us,us,,,Minahasa,Indonesia
+2022-08-18T07:46:27.625Z,0.3574,124.3718,173.104,5.5,mww,111,47,2.119,0.6,us,us6000ibtm,2022-10-28T02:26:56.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.75,5.362,0.059,28,reviewed,us,us,,,Minahasa,Indonesia
+2022-06-30T16:14:33.994Z,0.0705,123.6478,128.8,4.3,mb,50,71,1.41,1,us,us6000hyvg,2022-09-03T21:03:22.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.3,6.5,0.099,32,reviewed,us,us,,,Minahasa,Indonesia
+2022-06-29T00:41:33.994Z,0.7837,124.8766,43.93,4.9,mb,37,62,2.489,0.66,us,us7000hkzw,2022-09-03T21:03:47.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,3.1,7.6,0.104,29,reviewed,us,us,,,Minahasa,Indonesia
+2022-01-15T23:10:53.821Z,0.0373,124.3601,77.63,4.2,mb,,107,1.916,0.65,us,us7000gewq,2022-06-23T20:00:19.054Z,"Minahasa, Sulawesi, Indonesia",earthquake,11,11.4,0.305,3,reviewed,us,us,,,Minahasa,Indonesia
+2022-01-07T18:51:49.759Z,0.3479,122.2469,192.9,4.1,mb,,65,1.476,0.62,us,us7000gcni,2022-03-12T22:19:24.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.5,8.9,0.166,12,reviewed,us,us,,,Minahasa,Indonesia
+2021-07-10T11:49:57.901Z,0.5799,123.5653,252.62,4.5,mb,,66,1.795,0.51,us,us6000eu3l,2021-09-17T22:49:21.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.6,7.6,0.106,26,reviewed,us,us,,,Minahasa,Indonesia
+2021-04-08T17:48:54.961Z,1.2697,124.0843,235.66,4.2,mb,,112,2.644,0.95,us,us6000e1ua,2021-06-12T21:38:46.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,9.9,8.8,0.142,14,reviewed,us,us,,,Minahasa,Indonesia
+2021-03-10T12:50:01.574Z,0.9633,124.565,22.47,4.6,mb,,71,2.68,0.49,us,us7000dhnh,2021-05-21T19:49:04.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,6.5,4.2,0.103,28,reviewed,us,us,,,Minahasa,Indonesia
+2020-11-24T02:56:12.344Z,0.0237,124.3137,99.89,4,mb,,51,1.87,0.93,us,us7000ckdb,2021-02-03T17:49:54.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.7,8.7,0.134,15,reviewed,us,us,,,Minahasa,Indonesia
+2020-02-12T08:41:20.259Z,0.8509,124.8406,119.37,4,mb,,69,2.527,1.08,us,us70007t1b,2020-05-02T22:10:25.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,9.2,11,0.173,9,reviewed,us,us,,,Minahasa,Indonesia
+2019-02-20T01:52:23.160Z,0.125,119.7072,40.3,4.3,mb,,98,1.454,0.44,us,us1000j9dc,2019-05-11T17:40:30.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,5.5,11.1,0.161,11,reviewed,us,us,,,Minahasa,Indonesia
+2018-09-28T10:16:48.730Z,-0.8748,120.0342,10,5.7,mb,,24,2.109,0.82,us,us1000h3rc,2022-08-08T08:42:33.777Z,"Minahasa, Sulawesi, Indonesia",earthquake,6,1.7,0.052,133,reviewed,us,us,,,Minahasa,Indonesia
+2018-09-28T08:24:58.490Z,-0.3464,119.8682,10,5.1,mb,,61,1.711,0.66,us,us1000h3nd,2022-05-03T19:32:04.626Z,"Minahasa, Sulawesi, Indonesia",earthquake,4.7,1.8,0.076,56,reviewed,us,us,,,Minahasa,Indonesia
+2017-08-21T23:31:13.810Z,1.0562,124.8936,134.19,4.5,mb,,64,2.488,1.44,us,us2000aagj,2017-11-22T03:43:27.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,8.1,7.3,0.09,36,reviewed,us,us,,,Minahasa,Indonesia
+2017-06-16T17:04:58.770Z,0.142,121.8617,174.63,4.3,mb,,150,1.446,0.98,us,us20009p0t,2017-08-18T23:13:30.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,9.6,7.8,0.116,22,reviewed,us,us,,,Minahasa,Indonesia
+2017-05-28T10:14:26.490Z,0.6287,120.3226,68.21,4,mb,,137,0.663,0.69,us,us20009j7y,2017-08-15T02:26:44.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,9.7,9.8,0.15,12,reviewed,us,us,,,Minahasa,Indonesia
+2016-12-30T06:06:34.030Z,0.4049,123.7758,211.57,4.6,mb,,55,1.753,0.77,us,us10007npe,2017-03-23T22:52:09.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,6.6,7.2,0.099,30,reviewed,us,us,,,Minahasa,Indonesia
+2016-09-09T04:39:40.300Z,-0.6708,120.7601,63.23,4.2,mb,,105,1.77,1.12,us,us10006nms,2016-12-07T02:56:07.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,5.6,10.3,0.187,8,reviewed,us,us,,,Minahasa,Indonesia
+2016-08-19T04:33:12.990Z,0.8951,120.8813,10,4,mb,,141,0.236,0.67,us,us10006gfm,2016-11-19T04:58:29.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.1,2,0.196,7,reviewed,us,us,,,Minahasa,Indonesia
+2015-11-09T04:12:20.250Z,0.3549,122.0212,189.93,4.2,mb,,112,1.449,0.78,us,us10003vvx,2016-02-05T03:16:38.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,10.3,7.1,0.113,22,reviewed,us,us,,,Minahasa,Indonesia
+2015-01-15T00:09:27.720Z,0.1436,119.9664,61.85,5.2,mb,,54,1.26,0.78,us,usc000tfwz,2022-05-03T17:10:17.731Z,"Minahasa, Sulawesi, Indonesia",earthquake,6.1,1.9,0.06,94,reviewed,us,us,,,Minahasa,Indonesia
+2014-08-27T09:02:53.360Z,0.1302,123.4526,146.14,4.4,mb,,93,1.348,0.65,us,usb000sadm,2014-11-29T00:09:16.000Z,"Minahasa, Sulawesi, Indonesia",earthquake,8.4,8.1,0.148,14,reviewed,us,us,,,Minahasa,Indonesia
+2014-08-10T02:15:20.220Z,1.5162,124.4556,256.13,4.6,mb,,81,3.003,0.88,us,usb000s1n5,2014-11-07T21:47:37.000Z,"Minahasa, Sulawesi, Indonesia",earthquake,,7.7,0.096,45,reviewed,us,us,,,Minahasa,Indonesia
+2014-05-02T18:06:24.100Z,0.4579,123.687,247.26,4.2,mb,,116,1.748,0.55,us,usb000qzcy,2014-07-27T21:51:17.000Z,"Minahasa, Sulawesi, Indonesia",earthquake,,8.3,0.166,10,reviewed,us,us,,,Minahasa,Indonesia
+2014-03-09T02:21:04.290Z,0.9698,124.1042,35.33,4.4,mb,,102,2.401,1,us,usc000n5qm,2014-05-15T02:23:48.000Z,"Minahasa, Sulawesi, Indonesia",earthquake,,8.7,0.143,21,reviewed,us,us,,,Minahasa,Indonesia
+2013-11-13T09:47:55.610Z,1.6811,124.4657,247.37,4.4,mb,,106,3.037,0.55,us,usb000l2q4,2014-01-31T21:22:18.000Z,"Minahasa, Sulawesi, Indonesia",earthquake,,9.6,0.126,,reviewed,us,us,,,Minahasa,Indonesia
+2011-01-23T16:44:40.040Z,1.832,120.413,53.1,4.2,mb,14,138.3,,1.02,us,usp000htjg,2014-11-07T01:43:28.918Z,"Minahasa, Sulawesi, Indonesia",earthquake,,12.6,,2,reviewed,us,us,,,Minahasa,Indonesia
+2008-12-06T10:48:04.370Z,0.502,120.622,45.1,4.9,mb,67,72.6,,1.05,us,usp000gq1g,2014-11-07T01:37:54.717Z,"Minahasa, Sulawesi, Indonesia",earthquake,,11.3,,25,reviewed,us,us,,,Minahasa,Indonesia
+2007-06-13T22:11:20.160Z,1.729,124.285,353.3,3.9,mb,39,86.9,,0.91,us,usp000fdyy,2014-11-07T01:32:42.145Z,"Minahasa, Sulawesi, Indonesia",earthquake,,14.8,,12,reviewed,us,us,,,Minahasa,Indonesia
+2007-01-03T08:39:23.340Z,1.192,124.298,225.1,4.2,mb,8,165.8,,0.4,us,usp000f1m9,2014-11-07T01:31:17.649Z,"Minahasa, Sulawesi, Indonesia",earthquake,,63.4,,1,reviewed,us,us,,,Minahasa,Indonesia
+2006-10-06T22:55:47.390Z,0.271,124.095,35,3.8,mb,9,169.6,,0.93,us,usp000eumf,2014-11-07T01:30:30.860Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,1,reviewed,us,us,,,Minahasa,Indonesia
+2006-03-12T01:56:00.670Z,0.259,122.101,150,3.6,mb,5,173.7,,0.59,us,usp000ebzk,2014-11-07T01:28:30.921Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,1,reviewed,us,us,,,Minahasa,Indonesia
+2005-02-05T23:38:06.500Z,0.065,123.584,142,5.1,mwc,114,61.6,,0.84,us,usp000dfk0,2016-11-10T01:01:01.273Z,"Minahasa, Sulawesi, Indonesia",earthquake,,11.5,,,reviewed,us,hrv,,,Minahasa,Indonesia
+2004-08-31T11:19:25.930Z,1.032,121.232,150,4.6,mb,15,162.3,,0.53,us,usp000d39k,2014-11-07T01:23:18.201Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,8,reviewed,us,us,,,Minahasa,Indonesia
+2004-06-17T03:24:37.740Z,0.512,120.988,35,4.7,mb,8,176,,0.62,us,usp000cy2k,2014-11-07T01:22:38.445Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,1,reviewed,us,us,,,Minahasa,Indonesia
+2004-06-08T06:46:17.060Z,1.427,121.465,600,3.5,mb,11,163.5,,1.21,us,usp000cxdv,2014-11-07T01:22:35.031Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,3,reviewed,us,us,,,Minahasa,Indonesia
+2003-04-16T09:31:23.940Z,0.247,122.01,192.9,5.3,mwb,99,79.9,,1,us,usp000bva9,2016-11-09T22:18:42.851Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us,,,Minahasa,Indonesia
+2000-12-26T07:09:02.700Z,1.796,120.303,33,4.7,mb,16,,,0.82,us,usp000a6rk,2014-11-07T01:11:46.462Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,5,reviewed,us,us,,,Minahasa,Indonesia
+2000-10-14T09:17:04.800Z,1.34,121.073,33,4.3,mb,8,,,0.46,us,usp000a1rj,2014-11-07T01:11:16.437Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,2,reviewed,us,us,,,Minahasa,Indonesia
+1999-03-23T08:32:34.790Z,1.006,120.135,33,5.2,mwc,,,,1,us,usp000950x,2022-04-29T18:04:43.680Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,hrv,,,Minahasa,Indonesia
+1996-12-24T04:40:12.570Z,0.358,120.381,100,4.6,mb,,,,1.11,us,usp0007ux1,2014-11-07T01:01:49.224Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,13,reviewed,us,us,,,Minahasa,Indonesia
+1996-09-05T17:45:48.120Z,0.266,120.337,33,4.2,mb,,,,1.15,us,usp0007pff,2014-11-07T01:01:07.138Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,5,reviewed,us,us,,,Minahasa,Indonesia
+1996-07-22T14:31:05.170Z,1.036,120.459,33,5.6,mb,,,,1.1,us,usp0007me2,2022-05-09T22:49:51.921Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,40,reviewed,us,us,,,Minahasa,Indonesia
+1996-01-07T21:21:53.840Z,1.049,120.184,33,4.4,mb,,,,1.1,us,usp0007akp,2014-11-07T00:59:37.681Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,10,reviewed,us,us,,,Minahasa,Indonesia
+1994-02-20T03:02:48.730Z,0.19,121.489,188,4.6,mb,,,,1,us,usp00068rm,2014-11-07T00:55:00.354Z,"Minahasa, Sulawesi, Indonesia",earthquake,,12.1,,11,reviewed,us,us,,,Minahasa,Indonesia
+1992-11-06T08:08:08.580Z,0.207,122.779,143.3,4.4,mb,,,,0.9,us,usp0005gcx,2014-11-07T00:51:49.489Z,"Minahasa, Sulawesi, Indonesia",earthquake,,9.2,,5,reviewed,us,us,,,Minahasa,Indonesia
+1990-05-27T18:11:16.550Z,1.074,122.931,33,4.4,mb,,,,1.5,us,usp00049v2,2014-11-07T00:46:24.624Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,3,reviewed,us,us,,,Minahasa,Indonesia
+1990-05-24T12:41:18.770Z,1.244,123.031,8.3,4.7,mb,,,,1,us,usp00049pt,2014-11-07T00:46:23.930Z,"Minahasa, Sulawesi, Indonesia",earthquake,,7.2,,6,reviewed,us,us,,,Minahasa,Indonesia
+1990-05-05T07:34:32.330Z,0.018,123.566,213.4,4.8,mb,,,,1.3,us,usp00048vu,2014-11-07T00:46:17.447Z,"Minahasa, Sulawesi, Indonesia",earthquake,,13.4,,11,reviewed,us,us,,,Minahasa,Indonesia
+1990-04-27T05:09:02.850Z,1.245,122.881,45.8,5,mb,,,,1,us,usp00048hw,2014-11-07T00:46:12.115Z,"Minahasa, Sulawesi, Indonesia",earthquake,,10.2,,9,reviewed,us,us,,,Minahasa,Indonesia
+1990-04-20T11:51:48.530Z,1.058,124.083,33,4.8,mb,,,,1.5,us,usp000486x,2014-11-07T00:46:10.577Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,8,reviewed,us,us,,,Minahasa,Indonesia
+1990-04-19T17:10:12.220Z,1.306,123.509,33,4.6,mb,,,,1.1,us,usp0004865,2014-11-07T00:46:10.490Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,7,reviewed,us,us,,,Minahasa,Indonesia
+1990-04-19T01:05:08.760Z,1.3,123.021,33,6,mw,,,,1.3,us,usp0004850,2022-04-28T19:52:21.280Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,hrv,,,Minahasa,Indonesia
+1990-04-18T18:24:50.930Z,1.215,123.429,31.2,5.4,mb,,,,1,us,usp0004844,2022-04-28T19:52:11.907Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,15,reviewed,us,us,,,Minahasa,Indonesia
+1989-10-13T13:02:33.590Z,1.639,122.86,427.4,3.9,mb,,,,1.2,us,usp00040n5,2014-11-07T00:45:01.462Z,"Minahasa, Sulawesi, Indonesia",earthquake,,17.3,,1,reviewed,us,us,,,Minahasa,Indonesia
+1988-03-31T00:17:13.760Z,1.16,121.354,33,5,mb,,,,0.7,us,usp0003egc,2014-11-07T00:41:50.737Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,2,reviewed,us,us,,,Minahasa,Indonesia
+1987-07-31T01:38:31.120Z,0.41,123.862,195.9,3.8,mb,,,,0.2,us,usp000372x,2014-11-07T00:40:43.008Z,"Minahasa, Sulawesi, Indonesia",earthquake,,55.3,,1,reviewed,us,us,,,Minahasa,Indonesia
+1984-06-13T11:24:13.380Z,0.41,123.91,218.7,4.9,mb,,,,1,us,usp00024zx,2014-11-07T00:35:02.018Z,"Minahasa, Sulawesi, Indonesia",earthquake,,5.9,,11,reviewed,us,us,,,Minahasa,Indonesia
+1982-03-29T21:33:55.440Z,0.088,123.332,187.2,6,mb,,,,1.2,us,usp0001ken,2022-04-28T00:43:05.600Z,"Minahasa, Sulawesi, Indonesia",earthquake,,1.2,,42,reviewed,us,us,,,Minahasa,Indonesia
+1981-10-19T09:51:12.320Z,-0.944,119.966,33,4.6,mb,,,,1.4,us,usp0001gjf,2014-11-07T00:30:15.011Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,3,reviewed,us,us,,,Minahasa,Indonesia
+1979-04-18T18:15:19.000Z,1.217,120.166,33,5.1,mb,,,,,us,usp000104g,2014-11-06T23:22:00.291Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us,,,Minahasa,Indonesia
+2023-06-19T08:03:18.335Z,-0.171,125.0959,60.603,4.6,mb,43,90,2.456,0.43,us,us7000k9j3,2023-08-26T20:54:23.040Z,Molucca Sea,earthquake,4.71,8.196,0.089,38,reviewed,us,us,,,Molucca Sea,
+2023-03-14T03:27:51.664Z,0.6665,125.2312,82.255,4.5,mb,56,61,2.138,0.58,us,us7000jjqs,2023-05-20T23:20:21.040Z,Molucca Sea,earthquake,7.44,6.705,0.1,29,reviewed,us,us,,,Molucca Sea,
+2022-12-07T12:30:33.149Z,0.7937,125.5433,51.735,4.9,mb,43,63,1.823,1.14,us,us6000j7l3,2023-02-11T23:03:13.040Z,Molucca Sea,earthquake,8.13,6.066,0.098,33,reviewed,us,us,,,Molucca Sea,
+2022-11-03T03:54:01.478Z,0.7271,125.3078,95.407,4.5,mb,28,48,2.059,0.58,us,us7000im3u,2023-01-12T23:11:07.040Z,Molucca Sea,earthquake,7.2,6.159,0.136,16,reviewed,us,us,,,Molucca Sea,
+2021-08-01T11:39:19.563Z,-0.0804,124.8822,76.78,4.6,mb,,42,2.316,0.96,us,us6000f17x,2021-10-14T01:04:58.040Z,Molucca Sea,earthquake,8.2,8.4,0.098,31,reviewed,us,us,,,Molucca Sea,
+2020-12-22T09:39:23.942Z,-0.656,125.1056,41.16,4.2,mb,,71,2.364,0.89,us,us6000d5hi,2021-02-27T23:24:40.040Z,Molucca Sea,earthquake,9.1,4.7,0.199,7,reviewed,us,us,,,Molucca Sea,
+2019-06-24T08:17:07.159Z,-0.1196,124.4328,87.1,4.7,mb,,82,1.896,0.83,us,us6000455a,2019-09-11T15:19:41.040Z,Molucca Sea,earthquake,4.6,6.8,0.06,84,reviewed,us,us,,,Molucca Sea,
+2017-01-30T00:42:22.250Z,-0.084,125.1179,64.88,4.1,mb,,121,2.404,0.72,us,us20008jmq,2017-04-27T01:38:37.040Z,Molucca Sea,earthquake,5.2,26.6,0.213,6,reviewed,us,us,,,Molucca Sea,
+2016-07-05T11:17:59.830Z,-0.2446,125.542,10,4.5,mb,,51,2.085,0.84,us,us10006015,2016-09-02T21:36:38.040Z,Molucca Sea,earthquake,6.8,1.9,0.106,26,reviewed,us,us,,,Molucca Sea,
+2016-05-11T07:25:29.130Z,-0.3085,124.7935,52.06,4.2,mb,,62,2.787,0.6,us,us10005ihn,2016-07-20T18:10:53.040Z,Molucca Sea,earthquake,8.8,9.7,0.176,9,reviewed,us,us,,,Molucca Sea,
+2016-04-24T00:13:25.040Z,-0.2942,125.3405,10,4.5,mb,,48,2.286,0.97,us,us20005laq,2016-07-08T02:49:19.040Z,Molucca Sea,earthquake,6.9,1.9,0.089,37,reviewed,us,us,,,Molucca Sea,
+2016-04-19T08:49:55.850Z,-0.238,124.7742,54.79,4.1,mb,,71,2.155,0.72,us,us10005dq1,2016-06-27T23:02:16.040Z,Molucca Sea,earthquake,5,9.7,0.166,10,reviewed,us,us,,,Molucca Sea,
+2014-09-10T11:49:42.260Z,-0.3787,125.2483,35,4.6,mb,,35,2.406,0.85,us,usb000sb1q,2014-12-08T23:30:55.040Z,Molucca Sea,earthquake,5.6,2,0.077,54,reviewed,us,us,,,Molucca Sea,
+2014-06-21T02:47:34.560Z,0.9321,125.4359,65.09,4.7,mb,,39,1.937,1.05,us,usc000rjc5,2014-09-19T17:22:57.000Z,Molucca Sea,earthquake,,4.1,0.084,66,reviewed,us,us,,,Molucca Sea,
+2011-07-22T00:45:48.820Z,0.456,125.323,10,4.5,mb,14,140.2,,1.47,us,usp000j59r,2014-11-07T01:45:24.893Z,Molucca Sea,earthquake,,,,7,reviewed,us,us,,,Molucca Sea,
+2007-03-01T15:15:23.850Z,-0.239,124.36,42.5,5.4,mwc,139,40.7,,1.15,us,usp000f5wm,2016-11-10T01:36:22.765Z,Molucca Sea,earthquake,,,,,reviewed,us,gcmt,,,Molucca Sea,
+2006-08-29T11:00:20.040Z,-0.258,125.375,35,4.5,mb,8,138.8,,0.7,us,usp000es0t,2014-11-07T01:30:03.074Z,Molucca Sea,earthquake,,,,1,reviewed,us,us,,,Molucca Sea,
+2005-09-08T20:04:42.600Z,0.192,125.111,15,4.5,mb,9,171.8,,1.43,us,usp000dz12,2014-11-07T01:27:02.216Z,Molucca Sea,earthquake,,0,,4,reviewed,us,us,,,Molucca Sea,
+1999-12-05T05:53:27.340Z,-0.105,125.383,33,4.1,mb,,,,1.51,us,usp0009jg3,2014-11-07T01:09:06.506Z,Molucca Sea,earthquake,,,,2,reviewed,us,us,,,Molucca Sea,
+1999-12-02T16:08:11.000Z,-0.237,125.206,50,4.7,mb,,,,1.16,us,usp0009jda,2014-11-07T01:09:05.142Z,Molucca Sea,earthquake,,11,,8,reviewed,us,us,,,Molucca Sea,
+1999-03-18T01:59:00.960Z,-0.034,124.313,88.5,5.8,mwc,,,,1.18,us,usp00094q1,2022-04-29T18:04:03.771Z,Molucca Sea,earthquake,,,,,reviewed,us,hrv,,,Molucca Sea,
+1997-12-05T13:56:12.370Z,0.656,125.114,89.4,5.5,mb,,,,1.17,us,usp0008but,2022-04-29T17:10:48.108Z,Molucca Sea,earthquake,,7.9,,37,reviewed,us,us,,,Molucca Sea,
+1993-07-25T23:10:56.990Z,-0.682,124.324,76.1,5,mb,,,,1.2,us,usp0005xd1,2014-11-07T00:53:33.917Z,Molucca Sea,earthquake,,12,,16,reviewed,us,us,,,Molucca Sea,
+1990-02-25T11:57:25.740Z,-0.316,124.49,112.9,4.6,mb,,,,0.9,us,usp00045wq,2014-11-07T00:45:47.815Z,Molucca Sea,earthquake,,18.3,,11,reviewed,us,us,,,Molucca Sea,
+1988-04-21T19:29:50.150Z,-0.164,124.023,99.9,4.5,mb,,,,0.7,us,usp0003f82,2014-11-07T00:41:58.562Z,Molucca Sea,earthquake,,8.2,,2,reviewed,us,us,,,Molucca Sea,
+1987-11-27T01:43:33.790Z,-0.204,125.354,64.1,4.6,mb,,,,1.4,us,usp0003aks,2014-11-07T00:41:15.966Z,Molucca Sea,earthquake,,12.2,,3,reviewed,us,us,,,Molucca Sea,
+1984-10-18T12:57:51.560Z,-0.255,124.933,59.5,4.9,mb,,,,1.4,us,usp0002893,2014-11-07T00:35:35.390Z,Molucca Sea,earthquake,,9.5,,4,reviewed,us,us,,,Molucca Sea,
+2016-06-05T10:38:28.490Z,-2.9843,125.339,13.63,5,mb,,42,3.21,0.9,us,us20006263,2016-08-18T00:36:31.040Z,"Pulau-Pulau Sula, Indonesia",earthquake,7.2,3.8,0.069,67,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+2015-11-30T14:05:39.890Z,-2.0479,125.3598,10,4.3,mb,,89,3.445,0.43,us,us1000432p,2016-02-25T22:33:02.040Z,"Pulau-Pulau Sula, Indonesia",earthquake,5.3,1.9,0.125,18,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+2015-03-12T17:04:42.020Z,-2.2431,125.1664,43.61,4.1,mb,,58,2.674,0.98,us,us10001lwa,2015-06-04T00:46:17.040Z,"Pulau-Pulau Sula, Indonesia",earthquake,7.9,12,0.184,8,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+2007-09-14T00:48:00.650Z,-2.402,125.356,35,4.7,mb,10,178.9,,1.03,us,usp000fn6x,2014-11-07T01:33:34.847Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,1,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+2006-05-20T14:35:36.170Z,-2.054,125.538,35,4.3,mb,11,125.3,,1.18,us,usp000ehjy,2014-11-07T01:29:09.134Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,5,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+2005-04-30T15:47:07.520Z,-1.797,125.367,30,4.5,mb,12,138.5,,1.25,us,usp000dpm0,2014-11-07T01:25:43.014Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,3,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+2004-10-15T20:12:12.000Z,-2.241,125.211,26.3,4.5,mb,18,124.8,,0.76,us,usp000d6es,2014-11-07T01:23:46.086Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,6,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+2004-04-21T00:01:54.490Z,-2.171,125.389,95.3,4.6,mb,22,120.7,,1.34,us,usp000ct0h,2014-11-07T01:22:03.758Z,"Pulau-Pulau Sula, Indonesia",earthquake,,27.4,,2,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+2000-03-29T16:06:55.970Z,-1.914,125.132,36.7,4.7,mb,,,,1.04,us,usp0009qeq,2014-11-07T01:09:45.970Z,"Pulau-Pulau Sula, Indonesia",earthquake,,9.7,,11,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+1999-03-10T14:34:57.740Z,-2.51,125.205,33,4,mb,,,,0.9,us,usp0009488,2014-11-07T01:07:12.830Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,5,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+1999-01-11T03:38:40.920Z,-1.999,125.402,33,4.8,mb,,,,1.34,us,usp00090xm,2014-11-07T01:06:48.357Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,10,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+1998-12-04T01:13:11.290Z,-1.99,124.485,33,4.1,mb,,,,1.32,us,usp0008z4r,2014-11-07T01:06:35.745Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,1,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+1995-07-06T18:52:16.170Z,-2.196,125.196,33,4.7,mb,,,,1,us,usp000708b,2014-11-07T00:58:18.733Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,23,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+1989-11-12T14:30:16.230Z,-2.594,125.045,33,4.2,mb,,,,0.6,us,usp00041z6,2014-11-07T00:45:12.076Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,1,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+1988-03-08T15:38:26.340Z,-2.184,125.31,47.5,5.9,mw,,,,1.1,us,usp0003dqp,2022-04-28T20:51:37.473Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,,reviewed,us,hrv,,,Pulau-Pulau Sula,Indonesia
+1984-04-15T22:46:48.600Z,-2.435,125.095,134.6,5.1,mb,,,,1.2,us,usp00023kg,2014-11-07T00:34:46.104Z,"Pulau-Pulau Sula, Indonesia",earthquake,,14.4,,6,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+1982-11-16T11:02:57.430Z,-2.49,125.169,76.3,4.8,mb,,,,1.3,us,usp0001qyk,2014-11-07T00:32:12.038Z,"Pulau-Pulau Sula, Indonesia",earthquake,,8.8,,6,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+1977-04-02T06:46:17.400Z,-2.285,125.231,33,5.8,mb,,,,,us,usp0000n80,2022-04-27T15:43:39.698Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+1975-01-11T11:17:54.300Z,-2.068,125.402,33,5,mb,,,,,us,usp00009fm,2014-11-06T23:21:28.346Z,"Pulau-Pulau Sula, Indonesia",earthquake,,,,,reviewed,us,us,,,Pulau-Pulau Sula,Indonesia
+2023-07-09T00:35:07.335Z,-3.6588,119.9148,10,4.4,mb,20,101,1.356,0.45,us,us6000kr1c,2023-09-16T19:16:05.040Z,"Sulawesi, Indonesia",earthquake,7.09,1.887,0.178,9,reviewed,us,us,,,Sulawesi,Indonesia
+2023-02-27T01:48:50.026Z,-1.5833,120.4247,37.179,4.4,mb,26,67,2.407,0.64,us,us7000jhx5,2023-05-08T01:59:38.040Z,"Sulawesi, Indonesia",earthquake,5.12,7.872,0.149,13,reviewed,us,us,,,Sulawesi,Indonesia
+2023-02-07T18:42:32.727Z,-0.1617,123.9229,106.352,4.2,mb,24,68,1.446,0.83,us,us6000jp4p,2023-04-15T21:40:07.040Z,"Sulawesi, Indonesia",earthquake,4.71,7.843,0.125,19,reviewed,us,us,,,Sulawesi,Indonesia
+2023-02-02T09:30:24.579Z,-0.2592,123.7721,91.751,4.6,mb,36,62,1.267,1.23,us,us6000jmry,2023-04-13T21:53:29.040Z,"Sulawesi, Indonesia",earthquake,6.25,7.615,0.146,17,reviewed,us,us,,,Sulawesi,Indonesia
+2022-12-13T07:55:50.263Z,-0.6142,121.8665,9.045,4.1,mb,20,116,1,0.6,us,us6000j9ry,2023-02-18T22:04:17.040Z,"Sulawesi, Indonesia",earthquake,5.77,5.032,0.197,7,reviewed,us,us,,,Sulawesi,Indonesia
+2022-09-20T06:52:33.952Z,-0.031,123.3054,146.362,4.4,mb,23,78,1.137,0.41,us,us6000inn6,2022-11-26T20:57:19.040Z,"Sulawesi, Indonesia",earthquake,7.7,9.471,0.144,14,reviewed,us,us,,,Sulawesi,Indonesia
+2021-11-08T05:05:56.449Z,-0.5846,123.5502,10,5.4,mb,,23,0.901,0.84,us,us7000fsbt,2022-01-15T20:51:39.040Z,"Sulawesi, Indonesia",earthquake,4.6,1.7,0.041,201,reviewed,us,us,,,Sulawesi,Indonesia
+2021-09-16T19:19:55.482Z,-1.2665,120.5853,10,4.5,mb,,80,2.197,1.26,us,us7000fbwx,2021-11-23T15:13:16.040Z,"Sulawesi, Indonesia",earthquake,4.5,1.9,0.096,32,reviewed,us,us,,,Sulawesi,Indonesia
+2021-07-26T13:50:02.816Z,-0.7279,121.8801,11.94,4.2,mb,,120,0.944,0.33,us,us6000f0p3,2021-10-03T05:24:08.040Z,"Sulawesi, Indonesia",earthquake,7.6,8.3,0.263,4,reviewed,us,us,,,Sulawesi,Indonesia
+2021-07-21T18:14:07.620Z,-2.9447,119.4271,10,4.2,mb,,135,2.081,0.54,us,us6000ezid,2021-09-25T21:08:29.040Z,"Sulawesi, Indonesia",earthquake,4.9,1.6,0.2,7,reviewed,us,us,,,Sulawesi,Indonesia
+2019-04-12T16:01:21.296Z,-2.1103,122.8764,10,4.1,mb,,154,1.066,1,us,us700038l8,2019-06-20T19:03:26.040Z,"Sulawesi, Indonesia",earthquake,6.5,2,0.185,8,reviewed,us,us,,,Sulawesi,Indonesia
+2019-04-12T11:40:49.363Z,-1.8146,122.5798,15.46,6.8,mww,,28,0.791,1.16,us,us700034xq,2020-07-10T17:38:26.662Z,"Sulawesi, Indonesia",earthquake,2,2.8,0.056,31,reviewed,us,us,,,Sulawesi,Indonesia
+2015-05-08T04:54:00.410Z,-0.8193,123.5766,17.29,4.2,mb,,74,0.834,0.71,us,us100029g1,2015-07-17T07:05:58.040Z,"Sulawesi, Indonesia",earthquake,5.1,6.8,0.176,9,reviewed,us,us,,,Sulawesi,Indonesia
+2012-12-18T16:39:28.620Z,-1.58,119.719,43,4.5,mb,40,82.2,,0.77,us,usp000jx42,2014-11-07T01:49:37.618Z,"Sulawesi, Indonesia",earthquake,,7.2,,16,reviewed,us,us,,,Sulawesi,Indonesia
+2011-10-23T17:31:13.720Z,-2.507,121.651,24.4,4.1,mb,15,107.7,,1,us,usp000j9sy,2014-11-07T01:46:10.294Z,"Sulawesi, Indonesia",earthquake,,27.8,,2,reviewed,us,us,,,Sulawesi,Indonesia
+2010-11-28T06:59:08.350Z,-4,122.575,10,4.3,mb,22,71.9,,0.92,us,usp000hq8b,2014-11-07T01:42:58.793Z,"Sulawesi, Indonesia",earthquake,,,,3,reviewed,us,us,,,Sulawesi,Indonesia
+2010-08-19T19:47:33.180Z,-1.486,120.642,27,4.2,mb,13,119.7,,0.67,us,usp000hjfn,2014-11-07T01:42:16.057Z,"Sulawesi, Indonesia",earthquake,,24.4,,1,reviewed,us,us,,,Sulawesi,Indonesia
+2010-05-08T05:39:28.080Z,-0.732,122.485,20,5.7,mwc,189,20.5,,1.12,us,usp000hcg2,2022-05-02T21:54:58.259Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,gcmt,,,Sulawesi,Indonesia
+2008-10-27T00:27:48.360Z,-0.013,123.324,181.3,3.9,mb,16,140.9,,0.43,us,usp000gm3r,2014-11-07T01:37:32.767Z,"Sulawesi, Indonesia",earthquake,,39,,2,reviewed,us,us,,,Sulawesi,Indonesia
+2007-06-28T19:27:35.820Z,-0.001,123.102,166.9,4.8,mb,32,88.1,,1.09,us,usp000ff1x,2014-11-07T01:32:46.828Z,"Sulawesi, Indonesia",earthquake,,,,14,reviewed,us,us,,,Sulawesi,Indonesia
+2007-04-14T01:02:47.600Z,-0.036,123.174,35,3.7,mb,7,166.4,,0.82,us,usp000f9nf,2014-11-07T01:32:11.815Z,"Sulawesi, Indonesia",earthquake,,,,1,reviewed,us,us,,,Sulawesi,Indonesia
+2006-07-23T12:05:56.170Z,-0.4,123.487,35,4.9,mb,38,121.9,,1.29,us,usp000epd0,2014-11-07T01:29:44.368Z,"Sulawesi, Indonesia",earthquake,,,,11,reviewed,us,us,,,Sulawesi,Indonesia
+2006-07-23T08:47:11.100Z,-0.377,123.304,40.2,4.8,mb,36,84.4,,1.04,us,usp000epcr,2014-11-07T01:29:44.352Z,"Sulawesi, Indonesia",earthquake,,,,7,reviewed,us,us,,,Sulawesi,Indonesia
+2006-06-23T08:17:15.860Z,-0.107,122.915,199.7,4.3,mb,15,165.6,,0.87,us,usp000em28,2014-11-07T01:29:26.559Z,"Sulawesi, Indonesia",earthquake,,20.3,,5,reviewed,us,us,,,Sulawesi,Indonesia
+2005-08-21T18:40:56.660Z,-1.037,120.181,50.9,4.5,mb,18,142.8,,1.09,us,usp000dxt4,2014-11-07T01:26:51.192Z,"Sulawesi, Indonesia",earthquake,,16.5,,8,reviewed,us,us,,,Sulawesi,Indonesia
+2005-07-20T03:15:49.980Z,-0.006,123.034,162.9,4.6,mb,36,88.1,,0.96,us,usp000dvj7,2014-11-07T01:26:31.142Z,"Sulawesi, Indonesia",earthquake,,,,15,reviewed,us,us,,,Sulawesi,Indonesia
+2002-05-30T12:45:15.530Z,-1.394,119.69,33,5.3,mwc,65,,,1.1,us,usp000b581,2022-05-02T16:00:17.130Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,hrv,,,Sulawesi,Indonesia
+2002-04-30T23:01:02.670Z,-0.569,123.192,33,5.1,mwc,57,,,1.15,us,usp000b3gn,2022-05-02T15:57:32.258Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,hrv,,,Sulawesi,Indonesia
+1998-12-26T15:39:07.800Z,-1.364,123.644,33,6.1,mwb,,,,1.38,us,usp000907e,2022-04-29T17:58:54.235Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us,,,Sulawesi,Indonesia
+1996-03-26T10:35:05.010Z,-2.754,122.463,33,4.4,mb,,,,1.3,us,usp0007fae,2014-11-07T01:00:08.610Z,"Sulawesi, Indonesia",earthquake,,,,14,reviewed,us,us,,,Sulawesi,Indonesia
+1996-03-25T18:20:33.220Z,-3.723,122.437,33,4.1,mb,,,,1.7,us,usp0007f9p,2014-11-07T01:00:08.540Z,"Sulawesi, Indonesia",earthquake,,,,1,reviewed,us,us,,,Sulawesi,Indonesia
+1996-01-31T06:21:42.250Z,-1.272,120.556,33,4.4,mb,,,,1,us,usp0007c1g,2014-11-07T00:59:45.062Z,"Sulawesi, Indonesia",earthquake,,,,5,reviewed,us,us,,,Sulawesi,Indonesia
+1990-09-22T13:36:09.920Z,-2.563,121.86,33,4.2,mb,,,,0.4,us,usp0004eyr,2014-11-07T00:47:07.830Z,"Sulawesi, Indonesia",earthquake,,,,1,reviewed,us,us,,,Sulawesi,Indonesia
+1990-09-02T02:54:59.890Z,-0.118,123.121,146.7,4.9,mb,,,,1.1,us,usp0004e6p,2014-11-07T00:47:03.286Z,"Sulawesi, Indonesia",earthquake,,19.7,,18,reviewed,us,us,,,Sulawesi,Indonesia
+1988-04-16T07:16:41.580Z,-0.947,123.549,79.4,4.5,mb,,,,1,us,usp0003f2r,2014-11-07T00:41:57.705Z,"Sulawesi, Indonesia",earthquake,,11.9,,2,reviewed,us,us,,,Sulawesi,Indonesia
+1985-03-12T06:22:45.240Z,-2.15,119.763,33,5,mb,,,,1.2,us,usp0002crz,2014-11-07T00:36:18.488Z,"Sulawesi, Indonesia",earthquake,,,,3,reviewed,us,us,,,Sulawesi,Indonesia
+1985-01-28T23:17:35.470Z,-2.863,119.736,33,5.2,mb,,,,1.3,us,usp0002bfb,2014-11-07T00:36:04.523Z,"Sulawesi, Indonesia",earthquake,,,,14,reviewed,us,us,,,Sulawesi,Indonesia
+1984-07-09T17:22:20.960Z,-3.442,123.29,38.4,5.4,mw,,,,1.2,us,usp00025m8,2022-04-27T23:17:29.972Z,"Sulawesi, Indonesia",earthquake,,6.1,,,reviewed,us,hrv,,,Sulawesi,Indonesia
+1983-07-18T19:59:20.150Z,-0.046,121.649,62.3,4.6,mb,,,,1.1,us,usp0001wx3,2014-11-07T00:33:29.825Z,"Sulawesi, Indonesia",earthquake,,10,,2,reviewed,us,us,,,Sulawesi,Indonesia
+1983-07-18T00:23:10.780Z,-0.004,121.816,67,4.9,mb,,,,1.5,us,usp0001ww0,2014-11-07T00:33:29.688Z,"Sulawesi, Indonesia",earthquake,,12.4,,6,reviewed,us,us,,,Sulawesi,Indonesia
+1981-05-30T07:12:58.340Z,-1.154,120.405,63.4,4.8,mb,,,,1.5,us,usp0001dxy,2014-11-07T00:29:31.855Z,"Sulawesi, Indonesia",earthquake,,9.4,,5,reviewed,us,us,,,Sulawesi,Indonesia
